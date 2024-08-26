@@ -125,11 +125,147 @@ enlace son diferentes en H2, F 2 y HF.
 **POR OTRO LADO, LEWIS NO OFRECE UNA EXPLICACIÓN RESPECTO DE LAS DIFERENCIAS ENTRE LOS ENLACES COVALENTES**.
 
 
+# 10.4 HIBRIDACIÓN DE ORBITALES ATÓMICOS
 
 
+## **HIBRIDACIÓN SP3**
+
+Consideremos la molécula CH4.Analizando **solo los eletrones de valencia** Se puede representar el diagrama del orbital del C como:
+	![[Pasted image 20240826094818.png]]
+El átomo de carbono tiene **dos electrones desapareados en su estado fundamental** y podría formar sólo dos enlaces con el hidrógeno.
+Para explicar los cuatro enlaces C-H del metano, se puede **excitar energéticamente** un electrón del orbital **2s** al **2p**
+![[Pasted image 20240826100001.png]]
+
+**ESTO GENERA 4 ELECTRONES DESAPAREADOS EN EL C QUE PUEDEN FORMAR LOS 4 ENLACES C-H**
+**PROBLEM:** La geometría no es la correcta porque 3 de los ángulos de enlace HCH serían de 90° y se sabe que **todos los ángulos HCH son de 109°5**. Esto se explica con el concepto de:
+
+**ORBITALES HÍBRIDOS:** Orbitales atómicos que se obtienen cuando dos o más orbitales no equivalentes del mismo átomo se combinan para prepararlos para la formación del enlace covalente. 
+
+**HIBRIDACIÓN** es el término que se utiliza para explicar la mezcla de los orbitales atómicos en un átomo para generar un conjunto de orbitales híbridos.
+
+Para el **carbono** podemos generar cuatro orbitales híbridos equivalentes mezclando el orbital 2s con los tres orbitales 2p:
+![[Pasted image 20240826100401.png]]
 
 
+Debido a que los nuevos orbitales se formaron a partir de un orbital s y tres orbitales p, reciben el nombre de **orbitales híbridos sp3**:
+![[Pasted image 20240826100227.png]]
 
+ANALOGÍA PARA ENTENDER LA HIBRIDACIÓN:
+- TENGO UN VASO CON 50 ML ROJO (**ORBITAL S**)
+- TENGO UN VASO CON 150 ML AZUL (**ORBITAL P**)
+- LOS MEZCLO Y TENGO 4 VASOS CON 50 ML VIOLETA (**ORBITAL SP3**) 
+
+
+**IMPORTANTE:**
+
+Comprender la relación entre **hibridación y el modelo RPECV:**
+- Utilizamos la hibridación para describir el esquema de enlace una vez que se ha predicho la distribución de los pares de electrones utilizando el modelo RPECV
+- **SI EL MODELO PREDICE UNA DISTRIBUCIÓN TETRAÉDRICA DE LOS PARES**, SUPONEMOS QUE OCURRIÓ UNA HIBRIDACIÓN DE UN ORBITAL S YTRES ORBITALES P PARA FORMAR CUATRO ORBITALES HÍBRIDOS SP3**
+
+
+## **HIBRIDACIÓN SP**
+
+El Modelo RPECV predice que el **BeCl2** es una molécula lineal. Su Diagrama orbital para los electrones de valencia del **Be** es:
+![[Pasted image 20240826101426.png]]
+
+ Be en estado fundamental no forma enlaces covalentes con el Cl porque **sus electrones están apareados en el orbital 2s**. Entonces, para explicar este fenómeno se debe **USAR HIBRIDACIÓN**:
+ 
+ Lo primero es excitar un electrón 2s hacia 2p:
+ ![[Pasted image 20240826101908.png]]
+
+Ahora tenemos 2 orbitales disponibles para el enlace, el **2s** y el **2p**. HOWEVER, si dos átomos de Cl se combinan con el Be en este estado excitado, un átomo de Cl compartiría un electrón 2s en tanto que el otro compartiria un electrón 2p. **FORMARIA DOS ENLACES BeCl NO EQUIVALENTES** 
+
+Esto contradice las evidencias experimentales, entonces se deben **mezclar o hibridar** para formar orbitales **SP EQUIVALENTES**
+![[Pasted image 20240826102225.png]]
+![[Pasted image 20240826102235.png]]
+
+Los orbitales **sp** se encuentran en la misma línea, el eje x, por lo que el ángulo entre ellos es de 180°.
+## **HIBRIDACIÓN SP2**
+
+Molécula de BF3. Según RPECV tiene una geometría plana. 
+
+Al considerar sólo los electrones de valencia, el diagrama orbital del B es:
+![[Pasted image 20240826103124.png]]
+
+Primero promovemos un electrón 2s a un orbital vacío 2p: 
+![[Pasted image 20240826103150.png]]
+Y al mezclar 2l orbital 2s con los dos orbitales 2p se forman **tres orbitales híbridos sp2:**
+![[Pasted image 20240826103217.png]]
+![[Pasted image 20240826103607.png]]
+
+
+- Estos 3 orbitales sp2 están en un plano y el ángulo entre cualquier par de ellos es de 120°
+- Cada uno de los enlaces BF son formados por el **traslape** entre 1 orbital híbrido sp2 del boro y un orbital 2p del flúor
+
+**HIBRIDACIÓN Y LA REGLA DEL OCTETO:**
+- Un átomo que empieza con un orbital s y tres orbitales p poseerá cuatro orbitales (suficientes para acomodar 8 electrones en un compuesto)
+- Se suele cumplir en los elementos del **segundo periodo**
+- **PARA UN ÁTOMO DEL 3 PERIODO ES DISTINTO**: 
+	- Ya que participan los orbitales 3d en la hibridación.
+
+
+#### **RESUMEN DE LA HIBRIDACIÓN:** #IMPORTANT
+
+- El concepto de hibridación **no se aplica a átomos aislados.** Es un modelo teórico que
+se utiliza sólo para explicar el enlace covalente.
+
+- La hibridación es la **mezcla de por lo menos dos orbitales atómicos no equivalentes,**
+**por ejemplo orbitales s y p**. Como consecuencia, un orbital híbrido no es un orbital
+atómico puro. Los orbitales híbridos y los orbitales atómicos puros tienen formas muy
+diferentes.
+
+- El número de orbitales híbridos generados es igual al número de orbitales atómicos
+puros que participan en el proceso de hibridación.
+
+- La hibridación requiere energía; sin embargo, el sistema recupera de sobra esta energía durante la formación del enlace.
+
+- Los enlaces covalentes en las moléculas y en los iones poliatómicos se forman a
+partir del traslape de orbitales híbridos, o de orbitales híbridos con orbitales puros.
+Como consecuencia, el esquema de hibridación en el enlace está aún dentro del con-
+texto de la teoría de enlace-valencia; suponemos que los electrones de una molécula
+ocupan orbitales híbridos de los átomos individuales.
+![[Pasted image 20240826103930.png]]
+
+
+## **PROCEDIMIENTO PARA LA HIBRIDACIÓN DE ORBITALES ATÓMICOS**
+
+
+Para asignar una hibridación conveniente al átomo central de una molécula debemos tener cierta idea sobre la geometría de la molécula. Los pasos son los siguientes
+
+1) Dibujar la estructura ded Lewis de la molécula
+2) Se predice la distribución global de los pares de electrones (tanto los pares enlazantes como los pares libres) utilizando el modelo RPECV
+3) Se deduce la hibridación del átomo central relacionando la distribución de los pares de electrones con la distribución de los orbitales híbridos que se indica en la tabla de arriba
+
+**DEMOSTRACIÓN DEL PROCEDIMIENTO:**
+
+
+![[Pasted image 20240826104626.png]]
+![[Pasted image 20240826104642.png]]
+# TODO #TODO (lo de arriba)
+
+## **HIBRIDACIÓN DE ORBITALES S,P Y D**
+
+Para elementos del 3er periodo no siempre se pued explicar la geometría molecular suponinendo solo la hibridación de los orbitales **S Y P**
+Se deben incluir los orbitales **D** para comprender la geometría de algunas moléculas
+
+**EJ: SF6**
+
+- Tiene una geometría octaédrica 
+- La configuración del S en el estado fundamental es [Ne]3s2 3p4
+	- El diagrama orbital de los electrones de valencia es:
+		- ![[Pasted image 20240826105330.png]]
+		- Podemos promover electrones de 3s y 3p a dos de los orbitales 3d porque la energía del subnivel 3d es muy cercana:
+			- ![[Pasted image 20240826105407.png]]
+		- Al mezclar el orbital 3s, tres orbitales 3p y dos orbitales 3d se generan seis orbitales híbridos sp3d2
+			- ![[Pasted image 20240826105455.png]]
+		- Los seis enlaces S-F se forman a partir del traslape de los orbitale shíbridos del átomo de S con los orbitales 2p de los átomos de F
+		- Hay 12 electrones alrededor del átomo de S y se vuola la regla del octeto 
+
+![[Pasted image 20240826105640.png]]
+![[Pasted image 20240826105651.png]]
+
+
+# 10.5 HIBRIDACIÓN EN MOLÉCULAS QUE CONTIENEN ENLACES DOBLES Y TRIPLES:
 
 
 
