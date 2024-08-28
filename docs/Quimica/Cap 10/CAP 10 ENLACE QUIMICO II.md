@@ -265,7 +265,111 @@ Se deben incluir los orbitales **D** para comprender la geometría de algunas mo
 ![[Pasted image 20240826105651.png]]
 
 
-# 10.5 HIBRIDACIÓN EN MOLÉCULAS QUE CONTIENEN ENLACES DOBLES Y TRIPLES:
+# 10.5 HIBRIDACIÓN EN MOLÉCULAS QUE CONTIENEN ENLACES DOBLES Y TRIPLES: #REVISAR 
+
+La hibridación también sirve para analizar **MOLÉCULAS CON ENLACES DOBLES Y TRIPLES**
+
+EJ: C2H4 contiene un enlace doble **Carbono-Carbono** y que tiene una geometría plana. 
+- Es posible comprender tanto la geometría como el enlace si consideramos que cada átomo de carbono tiene hibridación **2p (2s combinado con 2px y 2py)** y hay un 2pz que permanece sin cambio
+- Cada átomo de carbono usa tres orbitales híbridos sp2 para formar los dos enlaces con los orbitales 1s de los hidrógenos y un enlace con el orbital híbrido sp2 del átomo de C adyacente.
+- **ADEMÁS, LOS DOS ORBITALES 2pz de los átomos de C que no participaron en la hibridación forman otro enlace, por TRASLAPE LATERAL**
+
+
+Hay una diferencia entre los dos tipos de **enlaces covalentes formados en C2H4**:
+- **FIRST TYPE**: Los tres enlaces formados por cada átomo de C son **enlaces sigma**, enlaces covalentes formados a partir del traslape de orbitales extremo con extremo y **la densidad electrónica está concentrada entre los núcleos de los átomos enlazados**
+- **SECOND TYPE:** Enlace pi, se define como un **enlace covalente formado a partir del traslape lateral de los orbitales** la densidad electrónica se concentra por arriba y por debajo del plano que forman los núcleo de los átomos enlazados. Los dos átomos de C forman un enlace pi, generando una **GEOMETRÍA PLANA**
+
+Pese a que se represente enlace doble carbono-carbono como C=C, hay que recordar que **LOS DOS ENLACES SON DE TIPOS DIFERENTES**: Uno es un enlace **SIGMA** y el otro un enlace **PI**
+
+**REGLA PARA PREDECIR LA HIBRIDACIÓN EN MOLECULAS QUE CONTIENEN ENLACES MULTIPLES:**
+- Si el átomo central forma un enlace doble: Tiene hibridación sp2
+- Si forma dos enlaces dobles o uno triple: Tendrá hibridación sp
+
+**SOLO APLICA A ELEMENTOS DEL SEGUNDO PERIODO**
+
+# TODO #TODO 
+![[Pasted image 20240828103102.png]]![[Pasted image 20240828103113.png]]
+
+# 10.6 Teoría de orbitales moleculares
+
+
+En algunos casos. la teoría de enlace-valencia **FALLA AL EXPLICAR ALGUNAS DE LAS PROPIEDADES DE LAS MOLECULAS**
+- **EJ:** Molecula de oxígeno:
+	- ![[Pasted image 20240828103556.png]]
+	- Según esta descripción, todos los electrones están apareados y la molecula sería **diamagnetic**. Sin embargo, la molécula es **paramagnetica**. **BIG ERROR ENLACE-VALENCIA THEORY**
+
+Varias propiedades moleculares se pueden explicar mejor con la 
+**TEORÍA DE ORBITALES MOLECULARES**:
+- Describe los enlaces covalentes en términos de **orbitales moleculares**:
+	- Son el resultado de la interacción de los orbitales atómicos de los átomos que se enlazan y están relacionados con la molécula entera.
+- La diferencia con el orbital atómico es que este se **relaciona sólo con un átomo**
+
+#### **ORBITALES MOLECULARES DE ENLACE Y ANTIENLACE**
+
+Según **TEORÍA ORBITALES MOLECULARES**, el traslape de los orbitales 1s genera **DOS ORBITALES MOLECULARES:**
+- Un orbital molecular de enlace:
+	- **Menor energía y Mayor estabilidad que los orbitales atómicos que lo formaron**
+	- El acomodo de electrones en un **orbital molecular de enlace produce un enlace covalente estable**
+	- La densidad electrónica es **MÁXIMA ENTRE LOS NÚCLEOS DE LOS ÁTOMOS QUE SE ENLAZAN**  
+	- **INTERFERENCIA CONSTRUCTIVA** (Aumento de la amplitud es análogo al incremento de la densidad electrónica entre los núcleos)
+- Un orbital molecular de antienlace:
+	- **Mayor energía y Menor estabilidad que los orbitales atómicos que lo formaron
+	- El acomodo de electrones en un **orbital molecular de antienlace produce un enlace inestable**
+	- La densidad electrónica disminuye hasta cero entre los dos núcleos
+	- **INTERFERENCIA DESTRUCTIVA** (Disminucion de la amplitud es análoga a la disminución de la densidad electrónica entre los dos núcleos)
+
+**RECORDAR QUE LOS ELECTRONES TIENEN PROPIEDAD DE ONDA**
+- Propiedad: Ondas del mismo tipo interactúan de manera que la onda resultante puede tener una amplitud **mayor o menor**
+- La interacción recibe dos nombres:
+	- **INTERFERENCIA CONSTRUCTIVA**
+	- **INTERFERENCIA DESTRUCTIVA**
+![[Pasted image 20240828105646.png]]
+  
+Las interaccione constructiva y destructiva entre los dos orbitales 1s en la molécula de H2 conducen a la **formación de un orbital molecular sigma de enlace** y un orbital molecular sigma de antienlace:
+![[Pasted image 20240828105950.png]]
+
+En un **ORBITAL MOLECULAR SIGMA (enlace o antienlace)** la densidad electrónica se concentra simétricamente en torno a la **LÍNEA INTERNUCLEAR DE LOS ÁTOMOS QUE SE ENLAZAN**. Dos electrones en un orbital molecular sigma forman un enlace sigma.
+
+![[Pasted image 20240828114917.png]]
+En esta imagen se ve el **DIAGRAMA DE NIVELES DE ENERGÍA DEL ORBITAL MOLECUALR**, osea, los niveles de energía relativos de los orbitales generados en la formación de la molécula de H2, y las interacciones constructiva y destructiva entre los dos orbitales 1s.
+
+- En el orbital molecular de antienlace hay un **NODO** entre los núcleos, lo que significa **DENSIDAD ELECTRÓNICA 0**
+- Los núcleos se repelen entre sí debido a sus cargas positivas, en lugar de mantenerse unidos.
+- Los electrones en los orbitales moleculares de antienlace tienen mayor energía y menor estabilidad que si estuvieran en los átomos aislados
+- Por otra parte, los electrones en los orbitales moleculares de enlace tienen menor energía (y por lo tanto mayor estabilidad) que si estuvieran en los átomos aislados
+
+Usamos el ejemplo de H2 pero se puede aplicar a otras moléculas tmb, considerando **otros orbitales atómicos**.
+
+- Para todos los orbitales **s** el tratamiento es el mismo que para los orbitales 1s
+- Sin embargo, para los orbitales **p** el proceso es más complejoporque pueden interactuar entre sí de dos formas diferentes:
+	- **EJ:**
+		- Dos orbitales 2p pueden aproximarse entre sí a través de sus extremos para producir un orbital molecular sigma de enelace y un orbital molecular sigma de antinelace
+		- También pueden traslaparse laterlamente para generar un orbital molecular pi de enlace y oro de antienlace
+			- ![[Pasted image 20240828115739.png]]
+
+En un **orbital molecular pi** la densidad electrónica se concentra arriba y abajo de una línea imaginaria entre los dos núcleos que se enlazan. 
+- Dos electrones en un orbital molecular pi forman un enlace pi
+- Un enlace doble casi siempre está constituido por un enlace sigma y un enlace pi
+- Un enlace triple = 1 sigma + 2 pi
+
+# 10.7 Configuraciones de orbitales moleculares
+
+Para comprender las propiedades de las moléculas debemos conocer como están distribuidos los electrones en los orbitales moleculas. EL procedimiento para determinar la configuración electrónica de una molécula es análogo al que se usa para determinar la **configuración electrónica de los átomos**
+
+#### **REGLAS QUE RIGEN LAS CONFIGURACIONES ELECTRÓNICSA MOLECULARES Y LA ESTABILIDAD**
+
+- Acomodar los orbitales moleculares en orden creciente de energía
+
+**REGLAS:**
+
+1) El número de orbitales moleculares que se forman siempre es igual al número de orbitales atómicos que se combinan
+2) Cuánto más estable es el orbital molecular de enlace, menos estable será el orbital molecular de antienlace correspondiente
+3) El llenado de los orbitales moleculares procede de menor a mayor energía. En una molécula estable el número de electrones en los orbitales moleculares de enlace siempre es mayor que el de los orbitales moleculares de antienlace, porque los electrones se acomodan primero en los orbitales moleculares de enlace que tienen menor energía.
+4) Al igual que un orbital atómico, cada orbital molecular puede aceptar dos electrones con espín opuesto, de acuerdo con el principio de exclusión de Pauli.
+5) Cuando se agregan electrones a orbitales moleculares de la misma energía, la regla de Hund predice la distribución más estable, es decir, los electrones ocupan estos orbitales moleculares con espines paralelos.
+6) El número de electrones en los orbitales moleculares es igual a la suma de todos los electrones de los átomos que se enlazan.
+
+#### **LAS MOLECULAS DE HIDRÓGENO Y DE HELIO**
 
 
 
